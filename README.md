@@ -6,7 +6,8 @@
 - 未确认内容保持 `TBD` 或 `Translation pending`，不在此处硬补。
 
 ## 文档 / 资源
-- [说明书/](说明书/)
+- [说明书/](说明书/) - 中文说明书主源
+- 英文说明书 V1.2：发布在 GitHub 英文仓 [`dmBots/DM-J10010-2EC`](https://github.com/dmBots/DM-J10010-2EC/blob/master/Manual/DM-J10010-2EC%20Gear%20Motor%20User%20Manual%20V1.2%202026-04-28.pdf)
 - [2D图纸/](2D图纸/)
 - [3D模型/](3D模型/)
 - [电机特性曲线/](电机特性曲线/)
@@ -14,9 +15,10 @@
 ## 快速开始
 - 本目录没有独立的快速开始步骤。
 - 如需使用说明，请先阅读 [说明书/](说明书/)。
+- 如需英文说明书，请使用 GitHub 英文仓入口。
 - 如需查看外形和特性，请参考图纸、3D 模型和性能曲线。
 
 ## 状态
 - ZH: 主版
-- EN: Translation pending
+- EN: 英文说明书 V1.2 位于 GitHub dmBot 产品仓
 - TBD: 未确认信息保留空缺
