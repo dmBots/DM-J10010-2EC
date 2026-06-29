@@ -1,22 +1,21 @@
 # DM-J10010-2EC
 
+[中文](./README.zh.md) | EN
+
 ## Overview
-- This Gitee subtree keeps the Chinese source materials for the DM-J10010-2EC gear motor.
-- The English User Manual V1.2 is published in the GitHub dmBot product repository.
-- Use [README.md](README.md) as the current Chinese-source entry for this subtree.
 
-## Documentation / Resources
-- [Chinese Manual/](说明书/)
-- [English User Manual V1.2 on GitHub dmBot](https://github.com/dmBots/DM-J10010-2EC/blob/master/Manual/DM-J10010-2EC%20Gear%20Motor%20User%20Manual%20V1.2%202026-04-28.pdf)
-- [2D Drawings/](2D图纸/)
-- [3D Model/](3D模型/)
-- [Performance Curves/](电机特性曲线/)
+This repository is the material entry point for $name. The material folders are normalized so Gitee and GitHub can share the same internal structure.
 
-## Quick Start
-- Start from the Chinese source manual in this subtree.
-- For the English user manual, continue to the GitHub dmBot product repository.
+## Resources
 
-## Status
-- EN: English manual V1.2 lives in GitHub dmBot
-- ZH: source material exists in this Gitee subtree
-- TBD: unverified details pending
+- [manual/](manual/) - manuals, datasheets, and usage notes
+- [drawings/2d/](drawings/2d/) - 2D drawings, dimensions, and schematic materials
+- [models/3d/](models/3d/) - 3D models and mechanical files
+- [test-data/](test-data/) - test data, performance curves, and validation materials
+- [release-notes/](release-notes/) - release notes and change records
+
+## Structure Policy
+
+- Gitee uses Chinese as the default README.md.
+- GitHub uses English as the default README.md.
+- Subrepository links use only normalized local folders and do not depend on parent repository paths.
